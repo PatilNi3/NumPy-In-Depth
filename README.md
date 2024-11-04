@@ -31,7 +31,7 @@ Here are some valuable real-time resources for learning and utilizing Pandas:
 1. **Official Documentation:** The official [NumPy documentation](https://numpy.org/doc/2.1/user/absolute_beginners.html) is the best place to start. It includes detailed explanations of all features, methods, and use cases.
 2. **Online Courses:** You will find Online courses on platforms like [Udemy](https://www.udemy.com/courses/search/?price=price-free&q=numpy&sort=relevance&src=ukw), [Coursera](https://www.coursera.org/courses?query=numpy), YouTube and many more...
 
-### Books: 
+## Books: 
 **"Python for Data Analysis"** by Wes McKinney
 
 Written by the creator of pandas, this book covers the use of NumPy in data analysis and includes practical examples and applications.
